@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm **Juan Sebastián Fandiño Novoa**
 
-<!--
-**Sebastianfandi24/Sebastianfandi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Python | Java | Django | Git | PostgreSQL | HTML | CSS
 
-Here are some ideas to get you started:
+Soy desarrollador Full Stack con experiencia en Python, Java, Django, y tecnologías web (HTML, CSS, JavaScript). Tengo conocimientos avanzados en bases de datos con PostgreSQL y manejo de versiones con Git. Estoy enfocado en seguir aprendiendo y mejorar mis habilidades en desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+- 📧 [juansebastianfandi24@gmail.com](mailto:juansebastianfandi24@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sebasfandi)
+
+## Languages and Tools:
+
+- 🐍 **Programming Languages**: Python, Java, JavaScript  
+- 🔧 **Frameworks**: Django, Django REST Framework  
+- 🖥️ **Web Development**: HTML, CSS, JavaScript  
+- 📦 **Tools**: Git, Docker  
+- 🗃️ **Databases**: PostgreSQL  
+
+---
+
+💻 **"Siempre buscando mejorar y aprender más en el mundo del desarrollo tecnológico."** 🚀
